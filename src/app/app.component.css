@@ -1,0 +1,21 @@
+.applyCSS1{
+  background-color: chartreuse;
+  color: brown;
+}
+.applyCSS2{
+     color: dodgerblue;
+     background-color: darkgreen;
+}
+.one
+{
+  background-color: cadetblue;
+  color: red;
+}
+.two{
+  border: 5px solid green;
+}
+.three{
+  border-radius: 10px;
+  justify-content: center;
+  text-align: center;
+}
